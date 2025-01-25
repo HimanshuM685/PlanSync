@@ -1,0 +1,10 @@
+:root {
+    --whitetheam: #a7d6ff;
+    --white: #ffffff;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: var(--whitetheam);
+}
