@@ -1,10 +1,21 @@
 :root {
-    --whitetheam: #a7d6ff;
+    --whitetheam: #93cdff;
     --white: #ffffff;
+    --bluetheam: #3ba3ff;
 }
 
 body{
     height: 100%;
     width: 100%;
     background-color: var(--whitetheam);
+}
+
+.hero{
+    width: 100dvw;
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    text-shadow: 2px 2px #000000;
 }
